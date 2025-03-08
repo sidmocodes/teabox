@@ -1,8 +1,9 @@
 package com.example.intelligentcache.service;
 
-import com.example.intelligentcache.cache.CacheManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.example.intelligentcache.cache.CacheManager;
 
 @Service
 public class CacheService {
