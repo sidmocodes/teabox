@@ -1,0 +1,4 @@
+{
+    "jdk.runConfig.vmOptions": "-Dspring.profiles.active=dev",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
